@@ -1,0 +1,1 @@
+This is Tetris game made with pygame.
